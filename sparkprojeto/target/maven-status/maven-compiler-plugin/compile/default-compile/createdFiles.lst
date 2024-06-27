@@ -1,0 +1,3 @@
+model\DataSet.class
+model\WordReader.class
+sparkproject\LevenshteinDistanceSparkRDD.class
