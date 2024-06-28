@@ -37,9 +37,6 @@ public class LevenshteinDistanceSparkSQL {
             "levenshtein(lower(word), '" + REFERENCE_WORD + "') <= " + MAX_DISTANCE
         );
 
-        // Show the first few rows of the DataFrame with similar words
-        similarWordsDF.show(10, false);
-
         // Count the number of similar words
         long totalSimWords = similarWordsDF.count();
 
