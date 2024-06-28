@@ -33,6 +33,14 @@ public class LevenshteinDistanceSparkRDD {
         long totalSimWords = similarWordsRDD.count();
 
         System.out.println("Quantidade de palavras parecidas encontradas: " + totalSimWords);
+        
+     // Manter o Spark UI disponível após a finalização do programa
+        System.out.println("Pressione Enter para finalizar o programa...");
+        try {
+            System.in.read();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
         sc.close();
     }

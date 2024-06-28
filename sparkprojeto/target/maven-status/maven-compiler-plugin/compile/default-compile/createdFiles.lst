@@ -1,3 +1,7 @@
+sparkproject\LevenshteinDistanceSparkDataframeBin.class
+sparkproject\LevenshteinDistanceSparkSQL.class
+sparkproject\LevenshteinDistanceSparkDataframeTxt.class
 model\DataSet.class
+model\TxtToAvroConverter.class
 model\WordReader.class
 sparkproject\LevenshteinDistanceSparkRDD.class

@@ -1,3 +1,7 @@
-C:\Users\joaov\eclipse-workspace\sparkprojeto\src\main\java\model\DataSet.java
-C:\Users\joaov\eclipse-workspace\sparkprojeto\src\main\java\sparkproject\LevenshteinDistanceSparkRDD.java
-C:\Users\joaov\eclipse-workspace\sparkprojeto\src\main\java\model\WordReader.java
+C:\Users\joaov\git\spark\sparkprojeto\src\main\java\sparkproject\LevenshteinDistanceSparkDataframeTxt.java
+C:\Users\joaov\git\spark\sparkprojeto\src\main\java\sparkproject\LevenshteinDistanceSparkRDD.java
+C:\Users\joaov\git\spark\sparkprojeto\src\main\java\model\DataSet.java
+C:\Users\joaov\git\spark\sparkprojeto\src\main\java\model\WordReader.java
+C:\Users\joaov\git\spark\sparkprojeto\src\main\java\model\TxtToAvroConverter.java
+C:\Users\joaov\git\spark\sparkprojeto\src\main\java\sparkproject\LevenshteinDistanceSparkDataframeBin.java
+C:\Users\joaov\git\spark\sparkprojeto\src\main\java\sparkproject\LevenshteinDistanceSparkSQL.java
